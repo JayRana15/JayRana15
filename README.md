@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jay Rana(NightMare)</h1>
+<h1 align="center">Hi 👋, I'm Jay Rana</h1>
 <h3 align="center">Android developer and a Student!</h3>
 
 - ⚡ I’m an exuberant tech enthusiast and a **self taught Android developer**
