@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jay Rana</h1>
 <h3 align="center">Android developer and a Student!</h3>
 
-- ⚡ I’m an exuberant tech enthusiast and a **self taught Android developer**
+- ⚡ I’m an exuberant tech enthusiast and a **self learnt Android developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
